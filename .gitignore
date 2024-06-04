@@ -17,3 +17,8 @@ notes.md
 all_data.db
 # Logs
 scraping.log
+.venv
+*.pyc
+.vscode
+__pycache__
+**/__pycache__/
